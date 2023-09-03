@@ -1,0 +1,5 @@
+/target
+/Cargo.lock
+*.sjis.txt
+*.utf8.txt
+RECEIPTC.*
